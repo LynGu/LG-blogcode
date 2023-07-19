@@ -4,14 +4,14 @@
 
 avatar:
   enable: true
-  url: /static/images/myPic.jpg
+  url: /static/images/kamuyi.jpg
 
 background:
   background_color: '#ffffff'
 
   # Custom Background Picture
   enable_picture: true
-  url: /static/images/ty.jpg
+  url: /static/images/muku.jpg
   css_size: cover
   css_position: 50%
 
