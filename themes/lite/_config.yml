@@ -11,7 +11,7 @@ background:
 
   # Custom Background Picture
   enable_picture: true
-  url: /static/images/miku.jpg
+  url: /static/images/ty.jpg
   css_size: cover
   css_position: 50%
 
