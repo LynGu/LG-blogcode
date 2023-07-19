@@ -1,3 +1,4 @@
-2023/07/18
+title: sign
+date: 2023-07-19 10:16:00
 
-The judgment lies within oneself, while the reputation is determined by others.
+是非在己，毁誉由人
