@@ -4,7 +4,7 @@
 
 avatar:
   enable: true
-  url: /static/images/kamuyi.jpg
+  url: /static/images/myPic.jpg
 
 background:
   background_color: '#ffffff'
